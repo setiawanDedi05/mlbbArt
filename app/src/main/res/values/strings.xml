@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Art Space</string>
+    <string name="gusion">Gusion</string>
+    <string name="chou">Chou</string>
+    <string name="lancelot">Lancelot</string>
+    <string name="khufra">Khufra</string>
+    <string name="johnson">Jhonson</string>
+    <string name="leomord">Leomord</string>
+    <string name="terizla">Terizla</string>
+    <string name="xavier">Xavier</string>
+    <string name="angela">Angela</string>
+    <string name="floryn">Floryn</string>
+    <string name="claude">Claude</string>
+    <string name="clint">Clint</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>
